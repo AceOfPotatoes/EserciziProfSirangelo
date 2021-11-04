@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "84 - Classifica tennisti sul Web", "84 - Classifica tennisti sul Web\84 - Classifica tennisti sul Web.csproj", "{7C7F4C50-6720-4732-81C1-C8DB6590D7D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7F4C50-6720-4732-81C1-C8DB6590D7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7F4C50-6720-4732-81C1-C8DB6590D7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7F4C50-6720-4732-81C1-C8DB6590D7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7F4C50-6720-4732-81C1-C8DB6590D7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B21F3C-1ED3-4D33-BEAE-CFE5B95A48BB}
+	EndGlobalSection
+EndGlobal

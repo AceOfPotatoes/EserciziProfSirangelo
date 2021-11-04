@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - Confronti fra date con classi", "11 - Confronti fra date con classi\11 - Confronti fra date con classi.csproj", "{8B1211BF-0A52-4D00-AFE2-600971A4BACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1211BF-0A52-4D00-AFE2-600971A4BACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1211BF-0A52-4D00-AFE2-600971A4BACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1211BF-0A52-4D00-AFE2-600971A4BACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1211BF-0A52-4D00-AFE2-600971A4BACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3323D5-5483-4F98-8555-B625E82B2262}
+	EndGlobalSection
+EndGlobal
