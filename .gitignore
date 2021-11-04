@@ -4,8 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 *.Designer.cs
-*AssemblyInfo.cs
-*Program.cs
+!AssemblyInfo.cs
+!Program.cs
 
 # User-specific files
 *.rsuser
